@@ -5,6 +5,8 @@ Copy the file .pio/build/STM32F103RC_btt_512K/firmware.bin to a microSD card and
 
 This was not made for the Ender 3, I just happen to have a very similar build and it seems to work well. 
 
+added a premade firmware.bin with 4x4 levelling and all other features to the premade folder 
+
 This current version has:
 <ul>
 <li>Marlin 2.0.2.5 + bugfixes</li>
